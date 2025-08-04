@@ -1,4 +1,4 @@
-# 🧮 Student Result Visualization (Tableau Project)
+# 🧮 Student Result Visualization 
 
 ## 📌 Objective
 This project aims to visualize student academic performance using Tableau dashboards. It includes analysis of student marks, subject-wise averages, and grade distribution to help educators identify performance trends and underperforming areas.
